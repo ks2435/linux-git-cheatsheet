@@ -10,7 +10,7 @@
 5. **touch** — create empty file — `touch notes.txt`  (also updates file timestamp)
 6. **cp** — copy files — `cp a.txt b.txt`  (use -r to copy folders)
 7. **mv** — move/rename — `mv old.txt new.txt`  (also used to rename files)
-8. **rm** — delete — `rm file.txt`
+8. **rm** — delete — `rm file.txt`  (use -r for directories, be careful)
 9. **cat** — view file content — `cat readme.md`
 10. **grep** — search text — `grep "main" file.txt`
 
