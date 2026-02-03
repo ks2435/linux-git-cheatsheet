@@ -12,7 +12,7 @@
 7. **mv** — move/rename — `mv old.txt new.txt`  (also used to rename files)
 8. **rm** — delete — `rm file.txt`  (use -r for directories, be careful)
 9. **cat** — view file content — `cat readme.md`  (useful for quick file viewing)
-10. **grep** — search text — `grep "main" file.txt`
+10. **grep** — search text — `grep "main" file.txt`  (use -i to ignore case)
 
 ## Git Commands
 11. **git status** — show changes — `git status`
