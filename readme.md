@@ -3,8 +3,8 @@
 > Format: **Command** — what it does — example
 
 ## Linux Commands
-1. **pwd** — print current directory — `pwd`
-2. **ls** — list files — `ls -la`
+1. **pwd** — print current directory — `pwd` (useful before running cd)
+2. **ls** — list files — `ls -la`  (shows hidden files with -a)
 3. **cd** — change directory — `cd ..`
 4. **mkdir** — create a folder — `mkdir projects`
 5. **touch** — create empty file — `touch notes.txt`
