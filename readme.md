@@ -9,7 +9,7 @@
 4. **mkdir** — create a folder — `mkdir projects`  (use -p to create parent folders)
 5. **touch** — create empty file — `touch notes.txt`  (also updates file timestamp)
 6. **cp** — copy files — `cp a.txt b.txt`  (use -r to copy folders)
-7. **mv** — move/rename — `mv old.txt new.txt`
+7. **mv** — move/rename — `mv old.txt new.txt`  (also used to rename files)
 8. **rm** — delete — `rm file.txt`
 9. **cat** — view file content — `cat readme.md`
 10. **grep** — search text — `grep "main" file.txt`
