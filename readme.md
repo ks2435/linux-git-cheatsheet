@@ -15,7 +15,7 @@
 10. **grep** — search text — `grep "main" file.txt`  (use -i to ignore case)
 
 ## Git Commands
-11. **git status** — show changes — `git status`
+11. **git status** — show changes — `git status`  (check files before commit)
 12. **git add** — stage changes — `git add .`
 13. **git commit** — save snapshot — `git commit -m "message"`
 14. **git branch** — list/create branches — `git branch`
