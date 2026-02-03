@@ -18,6 +18,6 @@
 11. **git status** — show changes — `git status`  (check files before commit)
 12. **git add** — stage changes — `git add .`  (stages changes for commit)
 13. **git commit** — save snapshot — `git commit -m "message"`  (always write a clear message)
-14. **git branch** — list/create branches — `git branch`
+14. **git branch** — list/create branches — `git branch`  (use -d to delete a branch)
 15. **git merge** — merge branch into current — `git merge branch-name`
 
