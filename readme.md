@@ -7,7 +7,7 @@
 2. **ls** — list files — `ls -la`  (shows hidden files with -a)
 3. **cd** — change directory — `cd ..`  (use cd .. to go up one directory)
 4. **mkdir** — create a folder — `mkdir projects`  (use -p to create parent folders)
-5. **touch** — create empty file — `touch notes.txt`
+5. **touch** — create empty file — `touch notes.txt`  (also updates file timestamp)
 6. **cp** — copy files — `cp a.txt b.txt`
 7. **mv** — move/rename — `mv old.txt new.txt`
 8. **rm** — delete — `rm file.txt`
