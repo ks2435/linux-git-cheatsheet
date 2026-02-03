@@ -5,7 +5,7 @@
 ## Linux Commands
 1. **pwd** — print current directory — `pwd` (useful before running cd)
 2. **ls** — list files — `ls -la`  (shows hidden files with -a)
-3. **cd** — change directory — `cd ..`
+3. **cd** — change directory — `cd ..`  (use cd .. to go up one directory)
 4. **mkdir** — create a folder — `mkdir projects`
 5. **touch** — create empty file — `touch notes.txt`
 6. **cp** — copy files — `cp a.txt b.txt`
